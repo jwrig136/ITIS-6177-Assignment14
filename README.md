@@ -11,7 +11,7 @@ Before you install LoopBack, make sure to download and install Node.js (version 
 Install LoopBack 4 CLI
 The LoopBack 4 CLI is a command-line interface that can scaffold a project or extension. The CLI provides the fastest way to get started with a LoopBack 4 project that adheres to best practices.
 
-'''sh
+'''
 $ npm install -g @loopback/cli
 '''
                     
